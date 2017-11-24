@@ -1,0 +1,12 @@
+logging:
+  level:
+    org.springframework.security: DEBUG
+
+security:
+ oauth2:
+   resource:
+     jwt:
+       keyUri: http://localhost:9998/auth/oauth/token_key
+
+server:
+  port: 9997

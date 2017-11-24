@@ -1,0 +1,4 @@
+com/auth/AuthorizationServer.class
+com/auth/SecurityConfig.class
+com/auth/OAuthConfig.class
+com/client/AppController.class
